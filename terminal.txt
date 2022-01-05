@@ -1,0 +1,8 @@
+1) pwd- path of current directory
+2) ls- list of files in current directory
+3) touch- to create new file
+4) echo- to print something on terminal
+5) mkdir- to create a folder
+6) rmdir- to remove the folder
+7) rm- to remove a file
+8) clear- to remove the terminal
